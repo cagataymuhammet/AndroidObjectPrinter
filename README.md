@@ -1,5 +1,5 @@
 
-[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)]
+![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)
 
 # Android Object Printer
 
